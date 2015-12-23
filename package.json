@@ -1,5 +1,5 @@
 {
-  "name": "pdfkit",
+  "name": "unitive-pdfkit",
   "description": "A PDF generation library for Node.js",
   "keywords": [
     "pdf",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devongovett/pdfkit.git"
+    "url": "https://github.com/unitive-inc/pdfkit.git"
   },
   "bugs": "http://github.com/devongovett/pdfkit/issues",
   "devDependencies": {
